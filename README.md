@@ -13,8 +13,10 @@ You will also find several scripts:
 | ----------- | ----------- |
 | **start-jspServlet-dev.sh**| Starts the `jspServlet` application in dev mode with live coding |
 | **start-insultcounter2-dev.sh** | Starts the `insultcounter2` application in dev mode with live coding |
-| **build-insultcounter2-native.sh** | Performs the native build of `insultcounter2` and also creates a container image. |
+| **build-insultcounter2-native.sh** | Performs the native build of `insultcounter2` |
+| **build-insultcounter2-native-container.sh** | Performs the native build of `insultcounter2` and also creates a container image. |
 | **start-insultcounter2-native.sh** | Starts the `insultcounter2` application using the native binary. |
 | **start-insultcounter2-native-container.sh** | Starts the `insultcounter2` application using the native binary (container). |
 
-Note that these scripts use podman but adapting to docker would be trivial.
+Note that the *build-insultcounter2-native-container.sh* and *start-insultcounter2-native-container.sh* scripts use podman but adapting to docker would be trivial.
+
