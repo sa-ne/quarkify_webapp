@@ -1,5 +1,8 @@
-<html>    
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
 <head>
+  <meta charset="UTF-8">
   <title>Insult Counter</title>
   <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
   <link rel="shortcut icon" href="images/favicon.ico" />
@@ -34,7 +37,7 @@
           <td>
 	    <div class="nav">
 	    <br /><br /><br /><br /><br /><br /><br />
-	    <img src="images/blush.png" height="60px" width="60px" />
+	    <img src="images/blush.png" height="35%" width="35%" />
             <br /><br />
 	  </div>
           </td>
