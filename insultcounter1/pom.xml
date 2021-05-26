@@ -26,6 +26,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>insultcounter</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
